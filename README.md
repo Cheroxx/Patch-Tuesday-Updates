@@ -83,10 +83,11 @@ Microsoft Dynamics
 Summary of vulnerability details:  
 ```
 Remote Code Execution
+Several RCE vulnerabilities in Microsoft Sharepoint and Microsoft Sharepoint Server
 Scripting Engine Memory Corruption
 Runtime Privilege Elevation
 Active Directory and TLS Information Disclosure
-DoS
+DoS 
 ADFS Spoofing
 SharePoint XSS
 Visual Studio JSON Remote Code Execution
