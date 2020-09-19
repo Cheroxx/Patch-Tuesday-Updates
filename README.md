@@ -1,6 +1,6 @@
 ## Patch Tuesdays
 
-The latest cybersecurity news profiling the most current security updates and patches released by Microsoft and other major apps
+The latest cybersecurity news on recent current security updates and patches released by Microsoft and other developers
 
 #### September 2020 security releases
 
