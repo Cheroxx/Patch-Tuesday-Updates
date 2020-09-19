@@ -4,7 +4,7 @@ The latest cybersecurity news on recent current security updates and patches rel
 
 #### September 2020 security releases
 
-#### ADOBE   
+### Adobe   
 
 Updates for these products:
 ```
@@ -36,7 +36,7 @@ CVE-2020-9741
 CVE-2020-9742
 ```
 
-#### FIREFOX
+### Firefox
 
 Updates for these products:
 ```
@@ -54,7 +54,7 @@ CVE-2020-15663: Downgrade attack on Mozilla Maintenance Service potential for pr
 CVE-2020-15664: Attacker-induced prompt for extension installation
 ```
 
-#### MICROSOFT
+### Microsoft
 
 Updates for this software:
 ```
