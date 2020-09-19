@@ -1,8 +1,8 @@
 ## Patch Tuesdays
 
-The latest cybersecurity news profiling the most current security updates and patches released by Microsoft and other major apps including CVE's
+The latest cybersecurity news profiling the most current security updates and patches released by Microsoft and other major apps
 
-### September 2020 security releases
+#### September 2020 security releases
 
 #### ADOBE   
 
