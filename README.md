@@ -1,6 +1,6 @@
-## Patch Tuesdays
+## Patch Tuesdays   
 
-![image](laptopglow.jpg)
+![image](laptopglow1.jpg)
 
 The latest cybersecurity news on recent current security updates and patches released by Microsoft and other developers
 
