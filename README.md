@@ -2,7 +2,7 @@
 
 ![image](laptopglow1.jpg)
 
-The latest cybersecurity news on recent current security updates and patches released by Microsoft and other developers
+The latest cybersecurity news on recent current security updates and patches released by Microsoft, Apple, and other vendors
 
 #### September 2020 security releases
 
